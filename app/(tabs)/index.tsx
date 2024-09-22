@@ -21,7 +21,7 @@ export default function HomeScreen() {
       <View
         style={{
           backgroundColor: "white",
-          height: 100,
+          height: 110,
           flexDirection: "row",
         }}
       >
