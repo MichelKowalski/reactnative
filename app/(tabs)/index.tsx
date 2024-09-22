@@ -27,7 +27,7 @@ export default function HomeScreen() {
       >
         <View
           style={{
-            backgroundColor: "lightgreen",
+            backgroundColor: "green",
             flexDirection: "row",
             flex: 1,
           }}
